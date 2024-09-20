@@ -14,6 +14,6 @@ function my_home_address(){
 }
 
 print("Welcome ".call_name());
-print("<br> to ".my_home_address()."");
+print("<br> To ".my_home_address()."");
 print (" <br>currently, you are ".my_age(2024,2002)." years old!");
 ?>
